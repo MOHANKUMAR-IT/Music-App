@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+.banner{
+    background-image: url("../public/banner.jpg");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+
+
+.player_body{
+    display: flex;
+}
